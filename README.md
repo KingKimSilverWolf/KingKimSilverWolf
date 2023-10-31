@@ -8,9 +8,8 @@
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=KingKimSilverWolf&style=flat-square&color=blue" alt=""/>
+  <p>Hey there! 👋</p>
 </div>
-
-
 
 
 <!--
