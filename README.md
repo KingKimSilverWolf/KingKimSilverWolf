@@ -1,12 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+  <div id="badges" >
+    <a href="www.linkedin.com/in/kim-magidhi-7509931b1">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+
+  <img src="https://komarev.com/ghpvc/?username=KingKimSilverWolf&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/kim-magidhi-7509931b1">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
+
+
 <!--
 **KingKimSilverWolf/KingKimSilverWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
