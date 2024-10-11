@@ -28,4 +28,4 @@
 
   🌍 I believe in the power of technology to shape a better future, and I'm excited to be a part of that journey. From web development to mobile apps, I'm always eager to learn and grow. 📚
 
-  🌱 Currently, I'm focusing on Java and C/C++, and I'm open to collaboration, mentorship, and new opportunities.
+  🌱 Currently, I'm focusing on JavaScript and Python
