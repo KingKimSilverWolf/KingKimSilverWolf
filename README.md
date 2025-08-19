@@ -18,14 +18,14 @@
   ---
   <b>About me </b>🧔🏾‍♂️
 
-  🚀 Aspiring Software Engineer 🌟
+  🚀 Software Engineer 🌟
 
-  My name is Kim Magidhi, a passionate coding enthusiast with big dreams of making a mark in the world of software engineering. 🌐
+My name is Kim Magidhi, a software engineer passionate about building scalable, user-centered solutions that bridge technology and everyday life. 🚀
 
-  💻 I'm constantly exploring the world of code, seeking innovative solutions, and striving for excellence in every project I undertake. 🌈
+💻 I’ve developed full-stack applications, real-time analytics platforms, and mobile experiences — from React dashboards powered by FastAPI and PostgreSQL to NFC-enabled loyalty apps and interactive kiosks.
 
-  🔧 My toolbox includes a variety of programming languages, frameworks, and tools. I'm not afraid to dive deep into the tech stack to solve real-world problems. 💡
+🔧 My toolbox spans modern languages and frameworks: Python, JavaScript/TypeScript, Swift/SwiftUI, React, React Native, FastAPI, PostgreSQL, Supabase, Redis, AWS, Docker, and more. I thrive on tackling challenging problems across the stack — whether optimizing backend pipelines for thousands of data points per minute or crafting engaging frontends with D3.js and Three.js.
 
-  🌍 I believe in the power of technology to shape a better future, and I'm excited to be a part of that journey. From web development to mobile apps, I'm always eager to learn and grow. 📚
+🌍 I believe in the power of technology to solve real-world problems and create impact. My projects reflect that vision: helping businesses harness data, enabling seamless customer engagement, and delivering beautiful, performant user experiences.
 
-  🌱 Currently, I'm focusing on JavaScript and Python
+📚 Always learning, I’m currently deepening my expertise in system design, cloud infrastructure, and data-intensive applications as I pursue my long-term goal of building world-class products that scale globally.
